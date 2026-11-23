@@ -2,7 +2,7 @@
 
 Exportaciones de café verde de 2025 cruzadas con la aptitud climática del arábica hacia 2050 (2041–2060) en escenarios del IPCC.
 
-**Ver la visualización:** https://datarem.github.io/cafe-clima-2050/ · **English:** https://datarem.github.io/cafe-clima-2050/en/
+**Ver la visualización:** https://datarem.github.io/cafe_clima_2050/ · **English:** https://datarem.github.io/cafe_clima_2050/en.html
 
 - **Escenarios:** temperatura global 1950–2100 en cinco SSP (IPCC AR6, figura SPM.8a y tabla SPM.1).
 - **Flujos:** exportaciones 2025 por origen (ICO, Coffee Trade Globe) y la parte del arábica que sale de tierra que dejaría de ser apta, según Grüter et al. (2022) y Rabobank (2026).
@@ -10,6 +10,6 @@ Exportaciones de café verde de 2025 cruzadas con la aptitud climática del ará
 
 Exposición, no pronóstico. El análisis no considera cambios tecnológicos.
 
-Carpeta `data/`: datos usados en los gráficos (flujos por origen y series digitalizadas de la figura SPM.8a). Carpeta `video/`: animaciones para LinkedIn.
+Archivos `flows_multi.json` y `spm8a.json`: datos usados en los gráficos (flujos por origen y series digitalizadas de la figura SPM.8a). Archivos `.mp4`: animaciones para LinkedIn.
 
 Elaboración: Emilio José Bonnet. Las fuentes y advertencias completas están en la página.
